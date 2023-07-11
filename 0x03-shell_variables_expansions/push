@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m 'Redirections'
+git commit -m 'Variables'
 git push
